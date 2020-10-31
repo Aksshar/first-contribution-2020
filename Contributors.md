@@ -20,6 +20,7 @@
 - Bronwyn Carr
 - Swathi Prabhu
 - Charlie Wu
+- Aksshar | [Aksshar Github Account](https://github.com/Aksshar)
 - Slartibartfass | [Slartibartfass Github Account](https://github.com/slartibartfass)
 - Saral Karki | [Saral33 Github Account](https://github.com/saral33)
 - Jill Oestreicher | [Jill Oestreicher Github Account](https://github.com/jilloestreicher)
@@ -36,4 +37,4 @@
 - Ethan | [Ethan's Github Account](https://github.com/mrtentacless)
 - Daniel Sedrick | [Daniels's Github Account](https://github.com/mountwo23)
 - Devansh Singh | [Devansh's Github Account](https://github.com/Devansh3712)
-- Kamalakara Sri Krishna Tadepalli  | [Krishna's Github Account](https://github.com/kkrishTa)
+- Kamalakara Sri Krishna Tadepalli | [Krishna's Github Account](https://github.com/kkrishTa)
